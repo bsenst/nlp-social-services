@@ -1,0 +1,8 @@
+# Ignore the entire data directory
+/data/
+
+# Ignore the cloned spaCy project directory
+/textcat_demo/
+
+# Ignore the directory for Jupyter notebook index files
+/notebooks/indexdir/
